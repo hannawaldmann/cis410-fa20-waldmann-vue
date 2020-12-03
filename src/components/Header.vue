@@ -1,6 +1,6 @@
 <template>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
-  <router-link class="navbar-brand" to='/'>Waldmann</router-link>
+  <router-link class="navbar-brand" to='/'>Waldmann Store</router-link>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
@@ -23,14 +23,11 @@
         <router-link class="nav-link" to="/signup">
         <button class='btn btn-outline-warning text-dark'>Sign Up</button>
         </router-link>
-      </li>
+      </li> 
       <li class="nav-item">
         <button class='btn btn-warning'>Log Out</button>
       </li>
     </ul>
-   
-      <input class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
-      <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
  
   </div>
 </nav>
