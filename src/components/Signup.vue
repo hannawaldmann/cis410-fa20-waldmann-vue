@@ -32,8 +32,8 @@ import axios from 'axios';
 export default {
     data(){
 return{
-    nameFirst: '',
-    nameLast: '',
+    firstName: '',
+    lastName: '',
     email: '',
     password: '',
     errorMessage:'',
