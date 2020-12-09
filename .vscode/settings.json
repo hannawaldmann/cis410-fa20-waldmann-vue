@@ -1,0 +1,5 @@
+{
+    "staticWebApps.appSubpath": "dist",
+    "staticWebApps.apiSubpath": "",
+    "staticWebApps.outputSubpath": "dist"
+}
